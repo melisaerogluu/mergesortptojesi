@@ -1,0 +1,2 @@
+# mergesortptojesi
+patika.dev ödev
